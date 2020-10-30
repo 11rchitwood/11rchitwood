@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Ryan Chitwood.
+
+I am a...
+- Data Scientist
+- Designer
+- Developer
+
 <!--
 **11rchitwood/11rchitwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
